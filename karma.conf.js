@@ -28,7 +28,7 @@ module.exports = function(config) {
     angularCli: {
       environment: 'production'
     },
-    reporters: ['jasmine-diff', 'mocha', 'kjhtml'],
+    reporters: ['jasmine-diff', 'mocha'],
     mochaReporter: {
       output: 'minimal'
     },

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "lib": ["es6", "dom"],
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "noEmit": true,
+
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "emitDecoratorMetadata": true,
+
+    "baseUrl": ".",
+    "paths": {
+      "@ngxs/store": ["../../../@ngxs/store/index.d.ts"],
+      "@ngxs/store/internals": ["../../../@ngxs/store/internals/index.d.ts"]
+    },
+    "types": []
+  }
+}

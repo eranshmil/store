@@ -1,3 +1,17 @@
 {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#fe5fc5",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#a3fd02",
+        "activityBarBadge.foreground": "#15202b",
+        "titleBar.activeBackground": "#fe2cb3",
+        "titleBar.inactiveBackground": "#fe2cb399",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#fe2cb3",
+        "statusBarItem.hoverBackground": "#fe5fc5",
+        "statusBar.foreground": "#e7e7e7"
+    }
 }
